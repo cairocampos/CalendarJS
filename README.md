@@ -1,5 +1,5 @@
 CALENDÁRIO COM JAVASCRIPT E CSS
 *******************************
 
-![Screenshot](screenshot01.png)
-![Screenshot](screenshot02.png)
+![Screenshot](screenshot/screenshot01.png)
+![Screenshot](screenshot/screenshot02.png)
